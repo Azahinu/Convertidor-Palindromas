@@ -41,3 +41,40 @@ public class Registro {
 
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**
+ * @ Nombre del proyecto: $Convertir Palindroma
+ * @ Nombre de archivo:   $Proyecto palindromo
+ *@Date: $20/08/2022
+ *@Copyright: $Anderson Meneses. All rights reserved.
+ * Nota: Este contenido está limitado a la circulación interna de la compañía, y está prohibido usarlo para fines comerciales.
+ */
