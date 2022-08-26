@@ -1,0 +1,12 @@
+jun 09, 2022 12:47:53 PM logger.Registro logInfo
+INFORMACIÓN: Archivo abierto
+jun 09, 2022 12:48:48 PM logger.Registro logInfo
+INFORMACIÓN: Archivo abierto
+jun 09, 2022 12:49:09 PM logger.Registro logInfo
+INFORMACIÓN: Texto convertido correctamente
+jun 09, 2022 12:49:11 PM logger.Registro logInfo
+INFORMACIÓN: Los hilos se ejecutaron
+jun 09, 2022 12:49:53 PM logger.Registro logAdvertencia
+ADVERTENCIA: Ojo esta tratando de sobreescribir un archivo existente
+jun 09, 2022 12:50:18 PM logger.Registro logInfo
+INFORMACIÓN: Se guardo el archivo correctamente
